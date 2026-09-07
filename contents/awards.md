@@ -1,12 +1,9 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Outstanding Class Leader, College of Software, Jilin University, 2019, 2020 & 2021.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Academic Year Third-Class Scholarship, Jilin University, 2022.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling, 2021
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- Software copyright: ”Academic Affairs Management System (C#)”, 2022
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
