@@ -1,8 +1,4 @@
-<div class="container px-5">
-        <div id="avatar">
-            <img class="shadow" src="static/assets/img/portrait.png" alt="Portrait">
-        </div>
-    </div>@import "./styles.css";
+@import "./styles.css";
 
 
 :root {
