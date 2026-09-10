@@ -237,7 +237,7 @@ section .main-body {
 }
 
 #avatar img {
-    width: min(180px, max(130px, calc(100vw / 6)));
+    width: min(126px, max(91px, calc(100vw / 6 * 0.7)));
     height: auto;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
