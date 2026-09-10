@@ -1,4 +1,8 @@
-@import "./styles.css";
+<div class="container px-5">
+        <div id="avatar">
+            <img class="shadow" src="static/assets/img/portrait.png" alt="Portrait">
+        </div>
+    </div>@import "./styles.css";
 
 
 :root {
@@ -237,7 +241,7 @@ section .main-body {
 }
 
 #avatar img {
-    width: min(126px, max(91px, calc(100vw / 6 * 0.7)));
+    width: min(140px, max(100px, calc(100vw / 6 * 0.8)));
     height: auto;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
