@@ -1,7 +1,8 @@
 
 
 
-He is currently a staff in the Data Center of Industial and Commercial Bank of China(ICBC) and a part-time Reseach Assitant in the Department of Management at the Chinese University of Hong Kong.
+Zhiqian Yin is currently a Research Assistant in the Department of Management at The Chinese University of Hong Kong. \
+He is seeking PhD opportunities for the 2027 intake.
 
 #### Contact
 Email: u3638029@connect.hku.hk \
