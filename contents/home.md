@@ -1,8 +1,7 @@
 
 
 
-Zhiqian Yin is currently a Research Assistant in the Department of Management at The Chinese University of Hong Kong. \
-He is seeking PhD opportunities for the 2027 intake.
+Zhiqian Yin is currently a Research Assistant in the Department of Management at The Chinese University of Hong Kong. He is seeking PhD opportunities for the 2027 intake.
 
 #### Contact
 Email: u3638029@connect.hku.hk \
